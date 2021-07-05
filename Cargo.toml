@@ -39,4 +39,4 @@ x509 = []
 x962 = []
 
 [dependencies]
-der-parser = "5.1"
+der-parser = {git="https://github.com/yuguorui/der-parser.git"}
